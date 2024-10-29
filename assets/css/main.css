@@ -1,0 +1,191 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    background-color: #F6F5F4;
+}
+
+.header__logo{
+    margin-top: 33px;
+    margin-left: 650px;
+}
+
+.header__icon{
+    font-size: 16px;
+    color: #757575;
+    margin-top: -18px;
+    margin-left: 860px;
+}
+
+.header__icons1{
+    color: #000;
+}
+
+.header__icons2{
+    color: #757575;
+    margin-left: 30px;
+}
+
+.header__icons3{
+    color: #757575;
+    margin-left: 30px;
+}
+
+.header__icons4{
+    color: #757575;
+    margin-left: 30px;
+}
+
+.header__alex{
+    margin-left: 1710px;
+    margin-top: -32px;
+}
+
+.header__user{
+    margin-top: -20px;
+    margin-left: 1662px;
+}
+
+.user__prof{
+    color: #757575;
+    
+}
+
+.header__vhod{
+    font-size: 16px;
+    margin-top: -20px;
+    margin-left: 1775px;
+    
+}
+
+.vhod{
+    color: #000;
+}
+
+.steps__subtitle{
+    margin-top: 185px;
+    margin-left: 650px;
+    font-size: 16px;
+    color: #2B788B;
+}
+
+.steps__title{
+    margin-left: 650px;
+    margin-top: 24px;
+}
+
+.title{
+    font-size: 56px;
+    color: #000;
+    width: 531px;
+}
+
+.steps__text{
+    font-size: 18px;
+    color: #757575;
+    margin-left: 650px;
+    margin-top: 30px;
+    width: 396px;
+}
+
+.steps__btn{
+    margin-top: 32px;
+    margin-left: 650px;
+}
+
+.stepbtn{
+
+    color: #2B788B;
+    border-radius: 22px;
+    background-color: #C3DCE3;
+}
+
+.steps__image{
+    margin-left: 1150px;
+    margin-top: -440px;
+}
+
+.steps3__image{
+    margin-left: 650px;
+    margin-top: 86px;
+}
+
+.steps3__title{
+    margin-left: 580px;
+}
+
+.step__title{
+    font-size: 48px;
+    color: #000;
+    width: 474px;
+    margin-left: 900px;
+    margin-top: -380px;
+}
+
+.steps3__text{
+    font-size: 18px;
+    color: #757575;
+    margin-top: 30px;
+    margin-left: 1550px;
+    width: 400px;
+}
+
+.steps3__giper{
+    margin-left: 1572px;
+    color: #2B788B;
+    margin-top: 48px;
+    font-size: 16px;
+    
+}
+
+.giper{
+    color: #2B788B;
+    background-color: #C3DCE3;
+}
+
+.footer__prava{
+    margin-top: 197px;
+    margin-left: 465px;
+}
+
+.footer__icon{
+    margin-top: -16px;
+    font-size: 14px;
+    margin-left: 1570px;
+}
+
+.footer__icons1{
+    color: #757575;
+}
+
+.footer__icons2{
+    color: #757575;
+    margin-left: 30px;
+}
+
+.footer__icons3{
+    color: #757575;
+    margin-left: 30px;
+}
+
+.footer__icons4{
+    color: #757575;
+    margin-left: 30px;
+}
+
+.footer__icons5{
+    color: #757575;
+    margin-left: 30px;
+}
+
+footer{
+    height: 104px;
+}
